@@ -10,14 +10,24 @@
 Cybersecurity specialist with expertise in Product Security include CloudSec, DevSecOps, AppSec, Secure SDLC. Currently focused on stratagy product security and security research.
 
 **Core Competencies:**
-- 🔍 Product Secruity (ProdSec)
-- 📡 DevSecOps, AppSec, Security Champion (Leader)
-- 🔒 Techical Audit (ITGC, PCI DSS, etc)
+- 🔍 Product Security (ProdSec Manager)
+- 📡 DevSecOps, AppSec, Security Champion (role of Leader, Ddvocate)
+- 🔒 Technical audit (ITGC, PCI DSS, etc)
 - 🦠 ex-Malware Analysis & Reverse Engineering  
 - 💾 ex-Digital Forensics 
 
 ## 🛠️ Technical Arsenal
-**Security Tools:**
+**Security Tools and Platforms:**
+![ASOC](https://img.shields.io/badge/ASOC-FF6B00?style=flat-square&logo=ibm&logoColor=white)
+![ASMP](https://img.shields.io/badge/ASMP-0080FF?style=flat-square)
+![BSIMM](https://img.shields.io/badge/BSIMM-00A4EF?style=flat-square)
+
+**Cloud & DevOps:**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 **Programming & Scripting:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
