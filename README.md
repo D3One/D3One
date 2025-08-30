@@ -7,12 +7,12 @@
 </p>
 
 ## 🔐 About Me
-Cybersecurity specialist with expertise in penetration testing, vulnerability assessment, and digital forensics. Currently focused on advanced threat analysis and security research.
+Cybersecurity specialist with expertise in Product Security include CloudSec, DevSecOps, AppSec, Secure SDLC. Currently focused on stratagy product security and security research.
 
 **Core Competencies:**
 - 🔍 Product Secruity (ProdSec)
-- 📡 DevSecOps, AppSec, Security Champion
-- 🔒 Techical Audit
+- 📡 DevSecOps, AppSec, Security Champion (Leader)
+- 🔒 Techical Audit (ITGC, PCI DSS, etc)
 - 🦠 ex-Malware Analysis & Reverse Engineering  
 - 💾 ex-Digital Forensics 
 
@@ -60,16 +60,16 @@ Cybersecurity specialist with expertise in penetration testing, vulnerability as
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚔️ CTF Solutions</h3>
+      <h3>⚔️ Product Security</h3>
       <p>Writeups and solutions for various Capture The Flag challenges.</p>
-      <a href="https://github.com/D3One" target="_blank">
+      <a href="[https://github.com/D3One](https://github.com/D3One/Product-Security-Manager)" target="_blank">
         <img src="https://img.shields.io/badge/View_Writeups-0EA5E9?style=for-the-badge" alt="CTF Writeups">
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Security Tools</h3>
+      <h3>🛡️ DevSecOps and ApPSec</h3>
       <p>Custom security scripts and tools for penetration testing.</p>
-      <a href="https://github.com/D3One" target="_blank">
+      <a href="https://github.com/D3One/Docs_DevSecOps_Vault" target="_blank">
         <img src="https://img.shields.io/badge/Explore_Tools-0EA5E9?style=for-the-badge" alt Security Tools">
       </a>
     </td>
@@ -81,13 +81,13 @@ Cybersecurity specialist with expertise in penetration testing, vulnerability as
 
 ## 📞 Contact & Connect
 <p align="center">
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:mr.ivanpiskunov@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/ivanpiskunov14" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://t.me/your_telegram" target="_blank">
+  <a href="https://t.me/" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0EA5E9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
