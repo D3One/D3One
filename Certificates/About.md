@@ -79,5 +79,3 @@ A summary of my professional certifications and the competencies they validate.
 *   **LPIC-1: GNU/Linux Administrator** (Earned May 2013)  
     *Skills: Linux CLI, System Maintenance, Shell Scripting*
 ```
-
-This format is clean, professional, and quickly communicates your expertise to anyone visiting your profile.
