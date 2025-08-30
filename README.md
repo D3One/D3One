@@ -93,7 +93,7 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>☁️ k8 Shield </h3>
+      <h3>☁️ K8 Shield </h3>
       <p>The simple CLI utility for security audit and observing recommended options for K8s.</p>
       <a href="https://github.com/D3One/K8-Shield" target="_blank">
         <img src="https://img.shields.io/badge/View_Frameworks-0EA5E9?style=for-the-badge" alt="Cloud Security">
@@ -109,9 +109,9 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ Security Automation</h3>
+      <h3>⚡ Kubernetes security, e-book</h3>
       <p>SOAR playbooks and automated security response systems.</p>
-      <a href="#" target="_blank">
+      <a href="[#](https://github.com/IvanPiskunov/K8s_security_book)" target="_blank">
         <img src="https://img.shields.io/badge/View_Playbooks-0EA5E9?style=for-the-badge" alt="Security Automation">
       </a>
     </td>
