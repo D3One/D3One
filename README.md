@@ -47,9 +47,6 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-## 🛠️ Certificates 
-**[See my professional certifications](https://github.com/D3One/D3One/tree/main/Certificates)**
-
 ---
 
 ## 📊 GitHub Analytics
@@ -137,6 +134,8 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
 - **Ethical hacking:** CEH
 - **Software administration:** MCSA
 - **Network:** CCNA
+
+ **[See my professional certifications](https://github.com/D3One/D3One/tree/main/Certificates)**
 
 ## 📞 Contact & Connect
 <p align="center">
