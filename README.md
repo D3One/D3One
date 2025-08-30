@@ -3,7 +3,7 @@
 [![Cybersecurity Specialist](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0c4a6e&height=180&section=header&text=Ivan+Piskunov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity+Professional&descAlignY=60)](https://github.com/D3One)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22d3ee&width=435&lines=Product+Security+Manger;ex-Secuity+Champion\Advocate;ex-Penetration+Tester;ex-Malware+Analyst;Security+Researcher;Cr@zy+Geek$CTF+Player" alt="Specializations">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22d3ee&width=435&lines=Product+Security+Manager;ex-Security+Champion\Advocate;ex-Penetration+Tester;ex-Malware+Analyst;Security+Researcher;Cr@zy+Geek$+CTF+Player" alt="Specializations">
 </p>
 
 ## 🔐 About Me
