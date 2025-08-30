@@ -2,7 +2,7 @@
 
 In the world of information technology, there is a special category of professionals often referred to as "unicorns" or "rock stars." This is not an official title but rather a common slang term for unique IT experts.
 
-
+<img width="1472" height="1104" alt="image" src="https://github.com/user-attachments/assets/828e00a5-1d6d-4083-88ff-f55e7d35ab82" />
 
 **Who is this?**
 
