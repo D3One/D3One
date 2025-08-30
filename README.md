@@ -87,7 +87,12 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
 </table>
 
 ## 📜 Certifications & Training
-- **Areas:** Cloud Security 
+- **Areas:** Cloud Security, DevSecOps infrastructure
+- **Cloud Security:** AWS Security Specialty, GCP Professional Security Engineer
+- **Application Security:**  BSIMM Implementation, Microsoft Secure SDLC
+- **Ethical hacking:** CEH
+- **Software administration:** MCSA
+- **Network:** CCNA
 
 ## 📞 Contact & Connect
 <p align="center">
