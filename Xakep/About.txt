@@ -1,0 +1,14 @@
+"Xaker" is the main Russian resource dedicated to information security. It creates educational content aimed at IT specialists.
+
+The magazine talks about trends and technologies, as well as specific topics related to IT and IT security. Among the materials:
+- detailed guides (howto);
+- practical materials on development and administration;
+- interviews with outstanding people who created technology products and famous IT companies;
+- expert articles on information security.
+
+The main difference of the "Xaker" magazine is the manner of presenting the materials. Complex things are explained in simple language, with humor and youth slang. 
+The exception is the "Hacking" section, which is designed for more serious specialists.
+
+Since July 2015, the magazine has been published only in electronic form.
+
+Journal website: xakep.ru.
