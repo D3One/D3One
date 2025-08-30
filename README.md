@@ -3,16 +3,16 @@
 [![Cybersecurity Specialist](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0c4a6e&height=180&section=header&text=Ivan+Piskunov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity+Professional&descAlignY=60)](https://github.com/D3One)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22d3ee&width=435&lines=Penetration+Tester;Malware+Analyst;Security+Researcher;CTF+Player" alt="Specializations">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22d3ee&width=435&lines=Product+Security+Manger;ex-Secuity+Champion\Advocate;ex-Penetration+Tester;ex-Malware+Analyst;Security+Researcher;Cr@zy+Geek$CTF+Player" alt="Specializations">
 </p>
 
 ## 🔐 About Me
-Cybersecurity specialist with expertise in Product Security include CloudSec, DevSecOps, AppSec, Secure SDLC. Currently focused on stratagy product security and security research.
+Cybersecurity specialist with expertise in Product Security include CloudSec, DevSecOps, AppSec, Secure SDLC. Currently focused on strategy product security and security research.
 
 **Core Competencies:**
-- 🔍 Product Security (ProdSec Manager)
-- 📡 DevSecOps, AppSec, Security Champion (role of Leader, Ddvocate)
-- 🔒 Technical audit (ITGC, PCI DSS, etc)
+- 🔍 Product Security (ProdSec Manager, previously held the position of startup CISO)
+- 📡 DevSecOps, AppSec, Security Champion (role of Leader, Advocate)
+- 🔒 Technical audit (corporate IT infrastructure, clouds)
 - 🦠 ex-Malware Analysis & Reverse Engineering  
 - 💾 ex-Digital Forensics 
 
@@ -20,6 +20,13 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
 **Security Tools and Platforms:**
 ![ASOC](https://img.shields.io/badge/ASOC-FF6B00?style=flat-square&logo=ibm&logoColor=white)
 ![ASMP](https://img.shields.io/badge/ASMP-0080FF?style=flat-square)
+
+**Security Frameworks:**
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST-1C3F5F?style=flat-square&logo=nist&logoColor=white)
+![NSA](https://img.shields.io/badge/NSA-FF0000?style=flat-square&logo=nsa&logoColor=white)
+![ISO27001](https://img.shields.io/badge/ISO-27001-003366?style=flat-square)
+![SOC2](https://img.shields.io/badge/SOC2-Type2-4B0082?style=flat-square)
 ![BSIMM](https://img.shields.io/badge/BSIMM-00A4EF?style=flat-square)
 
 **Cloud & DevOps:**
