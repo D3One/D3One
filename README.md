@@ -47,6 +47,9 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
+## 🛠️ Certificates 
+**[See my professional certifications](https://github.com/D3One/D3One/tree/main/Certificates)**
+
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=D3One&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&title_color=22d3ee&icon_color=22d3ee" alt="GitHub Stats" width="48%">
