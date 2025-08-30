@@ -78,14 +78,14 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
   <tr>
     <td width="50%" valign="top">
       <h3>⚔️ Product Security</h3>
-      <p>Writeups and solutions for various Capture The Flag challenges.</p>
+      <p>Stuff about Product Security (ProdSec).</p>
       <a href="https://github.com/D3One/Product-Security-Manager" target="_blank">
         <img src="https://img.shields.io/badge/View_Writeups-0EA5E9?style=for-the-badge" alt="CTF Writeups">
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🛡️ DevSecOps and AppSec</h3>
-      <p>Custom security scripts and tools for penetration testing.</p>
+      <p>Official vendor's guide, docs, e-books, tips, hack around DevSecOps issues.</p>
       <a href="https://github.com/D3One/Docs_DevSecOps_Vault" target="_blank">
         <img src="https://img.shields.io/badge/Explore_Tools-0EA5E9?style=for-the-badge" alt="Security Tools">
       </a>
@@ -101,7 +101,7 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
     </td>
     <td width="50%" valign="top">
       <h3>🔍 DevSecOps Notes Box, e-book</h3>
-      <p>Official repository for author's e-book " DevSecOps Notes Box" by I.P.</p>
+      <p>Official repository for author's e-book "DevSecOps Notes Box" by I.P.</p>
       <a href="https://github.com/D3One/DevSecOps-Notes-Box" target="_blank">
         <img src="https://img.shields.io/badge/Explore_Methodologies-0EA5E9?style=for-the-badge" alt="Threat Intelligence">
       </a>
@@ -110,7 +110,7 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ Kubernetes security, e-book</h3>
-      <p>SOAR playbooks and automated security response systems.</p>
+      <p>Official repository of author's e-book.</p>
       <a href="https://github.com/IvanPiskunov/K8s_security_book" target="_blank">
         <img src="https://img.shields.io/badge/View_Playbooks-0EA5E9?style=for-the-badge" alt="Security Automation">
       </a>
