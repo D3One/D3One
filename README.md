@@ -111,14 +111,14 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
     <td width="50%" valign="top">
       <h3>⚡ Kubernetes security, e-book</h3>
       <p>SOAR playbooks and automated security response systems.</p>
-      <a href="[#](https://github.com/IvanPiskunov/K8s_security_book)" target="_blank">
+      <a href="https://github.com/IvanPiskunov/K8s_security_book" target="_blank">
         <img src="https://img.shields.io/badge/View_Playbooks-0EA5E9?style=for-the-badge" alt="Security Automation">
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>📚 White2Hack TG Channel</h3>
       <p>Official repository White2Hack Telegram Channel.</p>
-      <a href="[#](https://github.com/D3One/White2Hack)" target="_blank">
+      <a href="https://github.com/D3One/White2Hack" target="_blank">
         <img src="https://img.shields.io/badge/Explore_Training-0EA5E9?style=for-the-badge" alt="Security Education">
       </a>
     </td>
