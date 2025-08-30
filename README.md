@@ -79,7 +79,7 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
     <td width="50%" valign="top">
       <h3>⚔️ Product Security</h3>
       <p>Writeups and solutions for various Capture The Flag challenges.</p>
-      <a href="[https://github.com/D3One](https://github.com/D3One/Product-Security-Manager)" target="_blank">
+      <a href="https://github.com/D3One/Product-Security-Manager" target="_blank">
         <img src="https://img.shields.io/badge/View_Writeups-0EA5E9?style=for-the-badge" alt="CTF Writeups">
       </a>
     </td>
@@ -87,7 +87,39 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
       <h3>🛡️ DevSecOps and AppSec</h3>
       <p>Custom security scripts and tools for penetration testing.</p>
       <a href="https://github.com/D3One/Docs_DevSecOps_Vault" target="_blank">
-        <img src="https://img.shields.io/badge/Explore_Tools-0EA5E9?style=for-the-badge" alt Security Tools">
+        <img src="https://img.shields.io/badge/Explore_Tools-0EA5E9?style=for-the-badge" alt="Security Tools">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☁️ k8 Shield </h3>
+      <p>Cloud security frameworks and implementation guides for AWS, Azure, and GCP.</p>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/View_Frameworks-0EA5E9?style=for-the-badge" alt="Cloud Security">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 Threat Intelligence</h3>
+      <p>Threat modeling methodologies and intelligence gathering techniques.</p>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Explore_Methodologies-0EA5E9?style=for-the-badge" alt="Threat Intelligence">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Security Automation</h3>
+      <p>SOAR playbooks and automated security response systems.</p>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/View_Playbooks-0EA5E9?style=for-the-badge" alt="Security Automation">
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Security Education</h3>
+      <p>Security training programs and workshop materials for developers.</p>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Explore_Training-0EA5E9?style=for-the-badge" alt="Security Education">
       </a>
     </td>
   </tr>
