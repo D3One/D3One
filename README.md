@@ -84,7 +84,7 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ DevSecOps and ApPSec</h3>
+      <h3>🛡️ DevSecOps and AppSec</h3>
       <p>Custom security scripts and tools for penetration testing.</p>
       <a href="https://github.com/D3One/Docs_DevSecOps_Vault" target="_blank">
         <img src="https://img.shields.io/badge/Explore_Tools-0EA5E9?style=for-the-badge" alt Security Tools">
