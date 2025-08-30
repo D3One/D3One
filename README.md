@@ -141,7 +141,7 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
   <a href="https://linkedin.com/in/ivanpiskunov14" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://t.me/" target="_blank">
+  <a href="https://t.me/D3One" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0EA5E9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
