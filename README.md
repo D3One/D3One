@@ -138,7 +138,7 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
   <a href="mailto:mr.ivanpiskunov@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/ivanpiskunov14" target="_blank">
+  <a href="https://www.linkedin.com/in/ivan-piskunov/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://t.me/D3One" target="_blank">
