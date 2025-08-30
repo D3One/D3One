@@ -94,15 +94,15 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
   <tr>
     <td width="50%" valign="top">
       <h3>☁️ k8 Shield </h3>
-      <p>Cloud security frameworks and implementation guides for AWS, Azure, and GCP.</p>
-      <a href="#" target="_blank">
+      <p>The simple CLI utility for security audit and observing recommended options for K8s.</p>
+      <a href="https://github.com/D3One/K8-Shield" target="_blank">
         <img src="https://img.shields.io/badge/View_Frameworks-0EA5E9?style=for-the-badge" alt="Cloud Security">
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 Threat Intelligence</h3>
-      <p>Threat modeling methodologies and intelligence gathering techniques.</p>
-      <a href="#" target="_blank">
+      <h3>🔍 DevSecOps Notes Box, e-book</h3>
+      <p>Official repository for author's e-book " DevSecOps Notes Box" by I.P.</p>
+      <a href="https://github.com/D3One/DevSecOps-Notes-Box" target="_blank">
         <img src="https://img.shields.io/badge/Explore_Methodologies-0EA5E9?style=for-the-badge" alt="Threat Intelligence">
       </a>
     </td>
@@ -116,9 +116,9 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>📚 Security Education</h3>
-      <p>Security training programs and workshop materials for developers.</p>
-      <a href="#" target="_blank">
+      <h3>📚 White2Hack TG Channel</h3>
+      <p>Official repository White2Hack Telegram Channel.</p>
+      <a href="[#](https://github.com/D3One/White2Hack)" target="_blank">
         <img src="https://img.shields.io/badge/Explore_Training-0EA5E9?style=for-the-badge" alt="Security Education">
       </a>
     </td>
