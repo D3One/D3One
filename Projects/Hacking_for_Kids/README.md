@@ -11,6 +11,8 @@
 
 The curriculum is built on the principle of **"learning by doing"** within a controlled, virtual lab environment. Students don't just learn theory; they apply it to solve practical challenges, fostering critical thinking, problem-solving skills, and a deep understanding of how technology works—and how it can be secured.
 
+<img width="1885" height="920" alt="image" src="https://github.com/user-attachments/assets/25c7a9ae-475a-4dd3-bdd5-13e887623882" />
+
 ## 🎯 Target Audience
 
 This course is specifically designed for:
