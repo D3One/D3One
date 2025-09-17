@@ -1,6 +1,8 @@
 
 # 🎓 Professor Slobodnyak Ilya Anatolyevich: An Outstanding Scholar, Educator, and Mentor
 
+<img width="599" height="449" alt="image" src="https://github.com/user-attachments/assets/6ba29a6b-91e3-4fdf-aeb1-a05ba3b32934" />
+
 ## 📌 Basic Information
 - **Full Name:** Slobodnyak Ilya Anatolyevich
 - **Date of Birth:** December 8, 1975, Irkutsk, Russia 
