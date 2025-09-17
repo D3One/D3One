@@ -19,6 +19,6 @@ My professional path is a consistent ascent from a technical specialist to a exe
 
 *   **Book:**  – Moscow: Alpina Publisher, 2020.
 *   **Compilation of works:** ["Current Issues of Ensuring Information Security: Theory and Practice"](https://www.elibrary.ru/item.asp?id=1111). – Irkutsk: ISLU, 2020. – 195 p. (co-authored).
-*   **Articles and methodological guides:** [Digital Hygiene and Personal Security in Internet Space](https://www.elibrary.ru/item.asp?id=11111), [Practical Guide to Security Audit](https://github.com/D3One/D3One/blob/main/Professor%20of%20Practice/Practical_Security_Audit_Guide.pdf) and others.
+*   **Articles and methodological guides:** [Digital Hygiene and Personal Security in Internet Space](https://www.elibrary.ru/item.asp?id=1000), [Practical Guide to Security Audit](https://github.com/D3One/D3One/blob/main/Professor%20of%20Practice/Practical_Security_Audit_Guide.pdf) and others.
 
 In this repository, I share materials I create for my courses: original methodological guides, lab assignments, tutorials, and presentations. My goal is to **bridge the gap between theory and reality**, preparing students for the tasks they will face from day one of their careers.
