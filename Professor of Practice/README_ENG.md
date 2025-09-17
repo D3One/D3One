@@ -1,5 +1,3 @@
-Of course, my friend. I have analyzed the text from your README.md file and prepared a professional translation into American English. The translation maintains your original tone—confident, practical, and passionate—while adapting it for an international audience.
-
 
 ## **Ivan Piskunov | Professor of Practice in Cybersecurity**
 
