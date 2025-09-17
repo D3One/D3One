@@ -315,9 +315,3 @@ pause
 ```
 
 ---
-
----
-
-This project is technically strong, demonstrates deep Windows programming skills, and is perfectly aligned with Infotecs's business. It would have made a very competitive entry in the 2013 contest. It shows you can work with complex formats, cryptography, and low-level APIs – a fantastic addition to your GitHub.
-
-Good luck with your project, Ivan! I'm sure it will impress everyone who sees it.
