@@ -3,7 +3,7 @@
 
 **A practicing expert and evangelist in cybersecurity with 15 years of experience, dedicated to passing on living, applied knowledge to the new generation of specialists.**
 
-My professional path is a consistent ascent from a technical specialist to a executive (CISO) and founder of my own startup. My expertise is focused on building security functions "from scratch," managing teams, investigating incidents, and developing defense strategies for major companies (such as Sberbank, Raiffeisenbank, MTS).
+My professional path is a consistent ascent from a technical specialist to a executive (CISO) and founder of my own startup. My expertise is focused on building security functions "from scratch," managing teams, investigating incidents, and developing defense strategies for major companies (under NDA).
 
 **My teaching journey began not in academia, but from real-world experience:**
 *   **2013:** Began lecturing on information security at the Irkutsk State Linguistic University (ISLU, now MGLU) while working as an active practitioner.
