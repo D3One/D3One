@@ -82,3 +82,8 @@ Ilya Anatolyevich is known not only as a highly qualified specialist but also as
 ## 🙏 Expression of Gratitude
 
 I am eternally grateful to Ilya Anatolyevich for his invaluable contribution to my professional and personal development. Under his guidance, I not only defended my master's thesis and won a competition among young scientists and postgraduates but also gained invaluable experience that became the foundation for my further growth. His support, methodological guidance, and assistance beyond the framework of formal education helped me shape myself as a specialist. His warm human attitude and willingness to help in any matter, including organizing training courses where I acted as a lecturer, had a tremendous impact on my career path. I realize that thanks to Ilya Anatolyevich, I have gained a vast amount of knowledge, practical skills, and unique experience that I continue to use in my professional activities.
+
+![Screenshot_20250918_150553_Instagram](https://github.com/user-attachments/assets/4114af46-e679-4e7d-bf62-bc32b8e6d834)
+
+- - - 
+
