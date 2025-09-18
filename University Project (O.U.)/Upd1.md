@@ -95,7 +95,7 @@ bool Exporter::saveToWord(const std::string& filename) {
 
 ```cpp
 // ... Тут будет существующий код расчета ...
-AircraftParameters params; // Ваш объект с параметрами
+AircraftParameters params; // Объект с параметрами (задаем вирт функцией)
 // ... проводим все вычисления и заполняем params ...
 
 // Создаем экспортер и сохраняем
