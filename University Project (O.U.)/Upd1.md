@@ -65,7 +65,7 @@ bool Exporter::saveToWord(const std::string& filename) {
     outFile << "\\pard\\intbl\\b Параметр\\b0\\cell\\b Значение\\b0\\cell\\pard\\intbl\\row\\par\n"; // Заголовки столбцов
 
     // Заполняем таблицу данными из m_params
-    // Пример для нескольких параметров. Вам нужно будет добавить ВСЕ необходимые.
+    // Пример для нескольких параметров, нужно разобрать с Олегом
     outFile << "\\trowd\\trgaph0\n";
     outFile << "\\cellx5000\\cellx10000\n";
     outFile << "Скорость полета (V)\\cell " << m_params.flightSpeed << " км/ч\\cell\\row\\par\n";
@@ -78,11 +78,11 @@ bool Exporter::saveToWord(const std::string& filename) {
     outFile << "\\cellx5000\\cellx10000\n";
     outFile << "Тяга двигателей (F)\\cell " << m_params.engineThrust << " кН\\cell\\row\\par\n";
 
-    // Добавьте здесь все остальные параметры точно таким же образом...
+    // Здесь перекидываем все остальные параметры точно таким же образом
 
     outFile << "\\par\n\\par\n";
     outFile << "Дата расчета: " << __DATE__ << "\\par\n"; // Добавляем дату
-    outFile << "}"; // Закрываем RTF-документ
+    outFile << "}"; // Закрываем RTF-документ, почти все готово
 
     outFile.close();
     std::cout << "Отчёт успешно сохранён в файл: " << filename << ".rtf" << std::endl;
@@ -94,13 +94,15 @@ bool Exporter::saveToWord(const std::string& filename) {
 В главной функции, после проведения расчетов, нужно будет вызвать класс.
 
 ```cpp
-// ... ваш существующий код расчета ...
+// ... Тут будет существующий код расчета ...
 AircraftParameters params; // Ваш объект с параметрами
 // ... проводим все вычисления и заполняем params ...
 
 // Создаем экспортер и сохраняем
 Exporter exporter(params);
 exporter.saveToWord("Otchet_Po_Poletu"); // Имя файла без расширения
+
+// Дело сделано!
 ```
 
 ---
