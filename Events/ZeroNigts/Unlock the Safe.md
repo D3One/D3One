@@ -71,13 +71,3 @@ Now that you have the first and last numbers, the middle number is easy to brute
 *   **Investigator:** "Okay, last number 40, first number 70. Now to find the middle... Let's go to 70, rotate right once, back to 70, and now slowly towards 40... come on... come on... There! A tiny slip at 15! Got it!"
 *   **Investigator:** "Combination is 70... 15... 40." (Turns dial: R4, L to 70, R past 70 once to 15, L directly to 40). *CLUNK*.
 *   **Investigator:** "And we're in."
-
-### **Why This is a Perfect Infosec Challenge**
-
-This challenge teaches core infosec principles translated into the physical world:
-1.  **Understanding the System:** You can't exploit a system you don't understand. You had to learn how the lock works.
-2.  **Finding a Side-Channel Attack:** You weren't attacking the theoretical strength of the combination (brute force) but a flaw in its *implementation*: sound and physical feedback.
-3.  **Methodology and Patience:** Just like analyzing malware or network traffic, it requires a strict, repeatable methodology and immense patience to sift through "noise" to find the signal.
-4.  **Thinking Outside the Box:** It forces you to use senses and skills that are irrelevant in the digital realm, broadening your concept of what "hacking" means.
-
-This is a brilliant exercise that separates those who only know theory from those who can apply a hacker's mindset to any system, digital or physical.
