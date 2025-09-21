@@ -3,10 +3,15 @@
 ### ** Digital Forensic Challenge 2: "Operation Noisy Cricket: A Windows 7 Compromise"**
 
 **Category:** Digital Forensics (Windows)
+
 **Difficulty:** Medium-High
+
 **Estimated Time:** 2 Hours
+
 **Author:** D3One, Oleg usenko
+
 **Date:** Circa 2015 (firt release at 2010)
+
 
 #### **Challenge Description**
 
