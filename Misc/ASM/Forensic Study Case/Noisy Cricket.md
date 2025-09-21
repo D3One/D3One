@@ -8,7 +8,7 @@
 
 **Estimated Time:** 2 Hours
 
-**Author:** D3One, Oleg usenko
+**Author:** D3One, Oleg Usenko
 
 **Date:** Circa 2015 (firt release at 2010)
 
