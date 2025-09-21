@@ -4,7 +4,7 @@
 **Difficulty:** Medium
 **Estimated Time:** 90 minutes
 **Author:** SAPEU (SALEM), Oleg Usenko
-**Date:** Circa 2009
+**Date:** Circa 2009/2014
 
 #### **Challenge Description**
 
@@ -164,14 +164,14 @@ $ sudo cat /root/.bash_history
 
 $ sudo grep -i "COMMAND" /var/log/auth.log | tail -20
 # ... look for commands run via sudo...
-Apr  9 03:15:12 ubuntu-server-14 sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/history -c
+Apr  9 03:15:12 ubuntu-server-09 sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/history -c
 # Found it! The attacker used the `history` command with the `-c` (clear) flag.
 # Answer for Question 5: The one-letter command is `-c`.
 ```
 
 ---
 
-### **Summary of Answers for the CTF Challenge**
+### **Summary of Answers for the Challenge 1**
 
 1.  **Initial Access:** File upload vulnerability in `/admin/upload.php`.
 2.  **Persistence:** `/tmp/.X11-unix/.rsync/bin/run`
