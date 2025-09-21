@@ -1,6 +1,6 @@
 
 
-### ** Вшпшефд Ащкутышс Challenge 2: "Operation Noisy Cricket: A Windows 7 Compromise"**
+### ** Digital Forensic Challenge 2: "Operation Noisy Cricket: A Windows 7 Compromise"**
 
 **Category:** Digital Forensics (Windows)
 **Difficulty:** Medium-High
