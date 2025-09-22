@@ -130,3 +130,5 @@ cansend can0 752#0231010201000000
 *   **Lack of Rolling Codes:** The key fob signal, once sniffed, could be replayed. Modern systems use cryptographic challenges and responses that change every time.
 *   **Insecure Diagnostic Interface:** The Gateway ECU's diagnostic port was accessible from the OBD-II bus and used a weak security algorithm for access control. This allowed attackers to send privileged commands.
 *   **Hardcoded Secrets/Routines:** The UDS Routine IDs and the algorithm for calculating the security access key were often hardcoded and identical across many vehicles, making them susceptible to reverse engineering.
+
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/fd86bf52-7e6b-44b1-b879-2564e3b8f4e5" />
