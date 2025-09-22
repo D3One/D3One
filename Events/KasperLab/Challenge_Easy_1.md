@@ -1,6 +1,8 @@
 
 ## **Malware Reverse Engineering Task: Analysis of `Backdoor.Win32.Agent.gen`**
 
+<img width="1664" height="928" alt="image" src="https://github.com/user-attachments/assets/dca757b2-60d5-4bc8-b647-5a248da13401" />
+
 #### **Task Overview**
 - **Sample:** `sample_malware.exe` (SHA-256: `a1b2c3d4e5f67890...`)  
 - **Source:** Provided by Kaspersky Lab, 2017  
