@@ -8,6 +8,8 @@
 **Year:** 2017
 **Target:** Tesla Model S (circa 2017, with firmware version 17.11.3)
 
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/9d95374f-04da-4a97-883f-98e8740bdadd" />
+
 #### **Challenge Description**
 
 Welcome, Red Team. Our client, a penetration testing firm, has been tasked with assessing the physical security of a Tesla Model S. The vehicle is located in a secure garage. You have obtained temporary physical access to the vehicle's interior.
