@@ -58,7 +58,7 @@ If the ATM is misconfigured and its network services are exposed, additional vec
 *   **Vulnerability Exploitation:** Attacks targeting network equipment or unpatched vulnerabilities in the ATM's operating system.
 
 ---
-## 3) Lab/CTF Threat Model: The Pieces on the Board
+## Lab/CTF Threat Model: The Pieces on the Board
 
 **Hosts (sanitized):**
 
@@ -71,7 +71,7 @@ The exercise is to think in **execution primitives**: “Can the user cause a si
 
 ---
 
-## 4) Kiosk Escape Patterns: Explorer, hotkeys, maintenance/debug workflows
+### Kiosk Escape Patterns: Explorer, hotkeys, maintenance/debug workflows
 
 **Explorer by accident.** Kiosk shells are often custom, but help/feedback/update dialogs sometimes spawn **file pickers** or viewers. If the picker can browse beyond a whitelisted folder or invoke helpers (print preview, “open with”), you’ve created a *limited shell*.
 **Hotkey leftovers.** Accessibility combos, service hotkeys, or OEM utilities occasionally survive hardening. Good builds kill/remap them; bad builds forget one.
@@ -81,7 +81,7 @@ The exercise is to think in **execution primitives**: “Can the user cause a si
 
 ---
 
-## 5) AppLocker Reality Check: Hash vs Path vs Publisher & rule-precedence traps
+### AppLocker Reality Check: Hash vs Path vs Publisher & rule-precedence traps
 
 **What AppLocker really keys on:** **Publisher**, **Path**, **File Hash** rule conditions. Hash pins an exact binary; Publisher pins signature lineage/version; Path pins a location. Rule *collections* (EXE/MSI/Scripts/DLL/Packaged apps) and rule **precedence** matter. Microsoft’s official docs are the north star. ([Microsoft Learn][3])
 
@@ -98,7 +98,7 @@ The exercise is to think in **execution primitives**: “Can the user cause a si
 
 ---
 
-## 6) From Foothold to Admin: classic Windows **priv-esc** classes to close
+### From Foothold to Admin: classic Windows **priv-esc** classes to close
 
 No exploits here; just the **buckets** defenders must audit continuously:
 
@@ -112,7 +112,7 @@ Create a **controls matrix** mapping these to checks in your CI of gold images.
 
 ---
 
-## 7) Packet Games (Sanitized): capture/replay as a thought model
+### Packet Games (Sanitized): capture/replay as a thought model
 
 Some lab/CTF scenarios nudge you to think about **message authenticity** between the PC and cash dispenser or between ATM and host. If commands are **not** protected with per-session keys, nonces, and integrity (MAC/signature), **capture/replay** can simulate legit flows. That’s why mature vendors and standards bodies emphasize **mutual auth** and **replay protection** on all links. Historical demos (and writeups) showed how damaging it is when that’s missing. ([WIRED][1])
 
@@ -120,7 +120,7 @@ Some lab/CTF scenarios nudge you to think about **message authenticity** between
 
 ---
 
-### 🎯 The Setup: A Vulnerable ATM in a Sandbox
+## 🎯 The Setup: A Vulnerable ATM in a Sandbox
 
 The target wasn't your average street corner ATM. It was a **standalone Windows XP Embedded machine** (because of course it was) set up in the "Leave ATM Alone" zone. The goal? Get to the "money" – in this case, a flag or a virtual jackpot. The catch? It was locked down with **AppLocker** and other restrictions. This wasn't a smash-and-grab; it was a puzzle box waiting to be picked.
 
@@ -220,7 +220,7 @@ Clearly, security must be multi-layered. Recommendations for banks and operators
 
 ---
 
-Hardening Playbook: layered controls that actually move the needle
+### Hardening Playbook: layered controls that actually move the needle
 
 **Kiosk UX**
 
