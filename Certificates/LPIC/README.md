@@ -239,7 +239,6 @@ sudo iptables -A INPUT -p tcp --dport 22 -j ACCEPT
 ---
 
 ### Attribution
-
 [1]: https://www.lpi.org/our-certifications/exam-101-102-objectives/?utm_source=chatgpt.com "LPIC-1 Exam 101 and 102 Objectives"
 [2]: https://www.pathname.com/fhs/pub/fhs-2.3.pdf?utm_source=chatgpt.com "Filesystem Hierarchy Standard - Pathname Solutions"
 [3]: https://refspecs.linuxfoundation.org/FHS_2.3/index.html?utm_source=chatgpt.com "FHS 2.3 Specifications"
