@@ -2,7 +2,6 @@
 # 🧭 CISM (ISACA) — Theory & Practical Q\&As (up to 2012)
 
 **Author:** Ivan Piskunov
-**Note:** You wrote “MSCA by ISACA”; the credential you mean is **CISM — Certified Information Security Manager** (ISACA). The set below is **period-correct** for \~2012–2014 and aligned to the four classic CISM domains (Gov, Risk, Program, Incident). It’s original practice material—not real exam items.
 
 > Anchor references: **ISACA’s CISM domains**, **COBIT 5** (2012), **ISO/IEC 27001:2013**, **NIST SP 800-30 Rev.1** (risk), **NIST SP 800-53 Rev.4** (controls), **NIST SP 800-61 Rev.2** (incident), and **PCI DSS 3.0** (2013). ([ISACA][1])
 
