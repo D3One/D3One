@@ -3,6 +3,8 @@
 
 #### **Introduction: Expanding Our Commitment to Your Business Security**
 
+<img width="1896" height="857" alt="image" src="https://github.com/user-attachments/assets/9d2460ca-e092-4777-9cfa-fdb236e7cdb2" />
+
 Taxwell & Partners has built a strong reputation on providing exceptional tax, legal, and accounting services, forming the bedrock of our clients' financial and operational stability. In today's interconnected world, digital security is not a separate concern but a fundamental component of that stability. Recognizing this critical need, we are proud to expand our service portfolio to include a comprehensive suite of **Cybersecurity and IT Audit solutions**.
 
 Leveraging our deep understanding of business processes and regulatory compliance, our new Cybersecurity Practice is designed to protect your most valuable digital assets. Our team of specialists, supported by a network of trusted experts, brings a rigorous, methodology-driven approach to identifying vulnerabilities, ensuring compliance, and fortifying your IT infrastructure against evolving threats. This expansion allows us to offer a truly holistic partnership, safeguarding your business from financial, legal, and now, cyber risks.
