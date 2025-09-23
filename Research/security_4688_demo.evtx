@@ -1,0 +1,86 @@
+### PSEUDO EVTX — TEXTUAL SIMULATION (NOT A REAL EVTX BINARY)
+### Security 4688 demo events for blue-team training
+### Hostnames, paths, hashes, SIDs, IDs, IPs are fictional.
+
+[Event 1]
+LogName: Security
+Source:  Microsoft-Windows-Security-Auditing
+Date:    2025-05-16 14:22:33.801Z
+EventID: 4688
+Task:    Process Creation
+Keywords: Audit Success
+Computer: ATM-TERM-012
+Subject:
+  Security ID:   S-1-5-21-...-1009
+  Account Name:  kiosk
+  Account Domain: LAB
+  Logon ID:      0x4D3a1c
+Process Information:
+  New Process Name:   C:\Temp\Toolbox\inventory_sync.exe
+  New Process ID:     0x17a0
+  Creator Process ID: 0x0660
+  Command Line:       "C:\Temp\Toolbox\inventory_sync.exe" /sync /quiet
+Hashes (if configured):
+  SHA256: 8F5A0B4CE0A6C22B0D24D9D5A6D4970E3C2D88E5E73D9BD7F1F0A9F9E51AC012
+Parent Process:
+  Name:  C:\Windows\System32\userinit.exe
+  PID:   0x0660
+
+[Event 2]
+LogName: Security
+Source:  Microsoft-Windows-Security-Auditing
+Date:    2025-05-16 14:25:49.700Z
+EventID: 4688
+Task:    Process Creation
+Computer: ATM-TERM-012
+Subject:
+  Security ID:   S-1-5-21-...-1009
+  Account Name:  kiosk
+Process Information:
+  New Process Name:   C:\Windows\System32\msiexec.exe
+  New Process ID:     0x1810
+  Creator Process ID: 0x06d1
+  Command Line:       msiexec /i "C:\Users\kiosk\Downloads\setup_helper.msi" /qn
+Parent Process:
+  Name:  C:\Windows\Explorer.EXE
+  PID:   0x06d1
+
+[Event 3]
+LogName: Security
+Source:  Microsoft-Windows-Security-Auditing
+Date:    2025-05-16 14:28:42.550Z
+EventID: 4688
+Task:    Process Creation
+Computer: ATM-TERM-012
+Subject:
+  Security ID:   S-1-5-21-...-1009
+  Account Name:  kiosk
+Process Information:
+  New Process Name:   C:\Windows\System32\rundll32.exe
+  New Process ID:     0x1a20
+  Creator Process ID: 0x06d1
+  Command Line:       rundll32 "C:\ProgramData\Support\diagnostic.dll",EntryPoint
+Hashes (if configured):
+  SHA256: 915B0387C824D5F0EACFF1CDC9C91E0B5B50A4C36C428D4F3A5515FCE2501234
+Parent Process:
+  Name:  C:\Windows\Explorer.EXE
+  PID:   0x06d1
+
+[Event 4]
+LogName: Security
+Source:  Microsoft-Windows-Security-Auditing
+Date:    2025-05-16 14:31:08.998Z
+EventID: 4688
+Task:    Process Creation
+Computer: ATM-TERM-012
+Subject:
+  Security ID:   S-1-5-21-...-1009
+  Account Name:  kiosk
+Process Information:
+  New Process Name:   C:\Program Files\WindowsApps\Contoso.Reader_1.0.0.0_x64__8wekyb3d8bbwe\Reader.exe
+  New Process ID:     0x1c10
+  Creator Process ID: 0x06d1
+  Command Line:       "C:\Program Files\WindowsApps\Contoso.Reader_1.0.0.0_x64__8wekyb3d8bbwe\Reader.exe"
+Parent Process:
+  Name:  C:\Windows\Explorer.EXE
+  PID:   0x06d1

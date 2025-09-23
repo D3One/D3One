@@ -1,0 +1,106 @@
+### PSEUDO EVTX — TEXTUAL SIMULATION (NOT A REAL EVTX BINARY)
+### AppLocker demo events for blue-team training
+### Hostnames, paths, hashes, SIDs, IDs, IPs are fictional.
+
+[Event 1]
+LogName: Microsoft-Windows-AppLocker/EXE and DLL
+Source:  Microsoft-Windows-AppLocker
+Date:    2025-05-16 14:21:07.219Z
+EventID: 8003
+Level:   Warning
+Task:    EXE and DLL
+Opcode:  Info
+Computer: ATM-TERM-012
+User:     LAB\kiosk
+Message:  "C:\Temp\Toolbox\inventory_sync.exe" was allowed to run but would have been prevented from running if the AppLocker policy were enforced.
+PolicyName: EXE
+RuleType:   Path
+RuleName:   [Audit] Allow DevTools under C:\Tools\
+RuleId:     {b2e6a9c4-0c7d-4fd0-9345-7c4f4d8f60a1}
+FilePath:   C:\Temp\Toolbox\inventory_sync.exe
+SHA256:     8F5A0B4CE0A6C22B0D24D9D5A6D4970E3C2D88E5E73D9BD7F1F0A9F9E51AC012
+
+[Event 2]
+LogName: Microsoft-Windows-AppLocker/EXE and DLL
+Source:  Microsoft-Windows-AppLocker
+Date:    2025-05-16 14:22:33.812Z
+EventID: 8004
+Level:   Error
+Task:    EXE and DLL
+Computer: ATM-TERM-012
+User:     LAB\kiosk
+Message:  "C:\Temp\Toolbox\inventory_sync.exe" was prevented from running.
+PolicyName: EXE
+RuleType:   Publisher
+RuleName:   [Enforce] Allow only SignedVendor Corp.* (v>=5.2)
+RuleId:     {5a3e9b72-3c2c-4db7-9c0f-2e1d5f9d53a9}
+Signer:     NotSigned
+FilePath:   C:\Temp\Toolbox\inventory_sync.exe
+SHA256:     8F5A0B4CE0A6C22B0D24D9D5A6D4970E3C2D88E5E73D9BD7F1F0A9F9E51AC012
+
+[Event 3]
+LogName: Microsoft-Windows-AppLocker/MSI and Script
+Source:  Microsoft-Windows-AppLocker
+Date:    2025-05-16 14:25:50.041Z
+EventID: 8007
+Level:   Error
+Task:    MSI and Script
+Computer: ATM-TERM-012
+User:     LAB\kiosk
+Message:  "C:\Users\kiosk\Downloads\setup_helper.msi" was not allowed to run.
+PolicyName: MSI and Script
+RuleType:   Publisher
+RuleName:   [Enforce] Block unsigned MSI/scripts
+RuleId:     {dd7b0a2d-3a2c-4aaf-b74b-0b7f4003d1c4}
+FilePath:   C:\Users\kiosk\Downloads\setup_helper.msi
+SHA256:     32C1D6F9A23B4D1E9C8B2F4E1F5D0B7A22C44B5D9F7C3A0A1D2F3E4C5B6A7D8E
+
+[Event 4]
+LogName: Microsoft-Windows-AppLocker/EXE and DLL
+Source:  Microsoft-Windows-AppLocker
+Date:    2025-05-16 14:27:03.118Z
+EventID: 8003
+Level:   Warning
+Task:    EXE and DLL
+Computer: ATM-TERM-012
+User:     LAB\kiosk
+Message:  "C:\Users\kiosk\AppData\Local\Temp\viewer.exe" was allowed to run but would have been prevented if enforced.
+PolicyName: EXE
+RuleType:   Path
+RuleName:   [Audit] Allow under C:\Program Files\Viewer\
+RuleId:     {0c2f7f25-5b0b-47b8-a31f-2f7a33d1c1ac}
+FilePath:   C:\Users\kiosk\AppData\Local\Temp\viewer.exe
+SHA256:     6EABD0EF3A0E6D7D3E02B9723530A3CFCF229A3D9A71B1A6D9C07A9B4BF1BEE2
+
+[Event 5]
+LogName: Microsoft-Windows-AppLocker/EXE and DLL
+Source:  Microsoft-Windows-AppLocker
+Date:    2025-05-16 14:28:42.561Z
+EventID: 8004
+Level:   Error
+Task:    EXE and DLL
+Computer: ATM-TERM-012
+User:     LAB\kiosk
+Message:  "C:\ProgramData\Support\diagnostic.dll" was prevented from loading.
+PolicyName: EXE and DLL
+RuleType:   Publisher
+RuleName:   [Enforce] Allow only SignedVendor Corp.* (v>=5.2)
+RuleId:     {5a3e9b72-3c2c-4db7-9c0f-2e1d5f9d53a9}
+Signer:     NotSigned
+FilePath:   C:\ProgramData\Support\diagnostic.dll
+SHA256:     915B0387C824D5F0EACFF1CDC9C91E0B5B50A4C36C428D4F3A5515FCE2501234
+
+[Event 6]
+LogName: Microsoft-Windows-AppLocker/Packaged app-Deployment
+Source:  Microsoft-Windows-AppLocker
+Date:    2025-05-16 14:31:09.004Z
+EventID: 8004
+Level:   Error
+Task:    Packaged app-Deployment
+Computer: ATM-TERM-012
+User:     LAB\kiosk
+Message:  A packaged app was prevented from launching due to policy.
+Package:   Contoso.Reader_1.0.0.0_x64__8wekyb3d8bbwe
+RuleType:  Publisher
+RuleName:  [Enforce] Allow only Trusted Store packages
+RuleId:    {aa4e0b6e-2a2e-4d42-8a6c-4a1a7e8c21bc}
