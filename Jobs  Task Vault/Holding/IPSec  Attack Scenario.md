@@ -214,8 +214,7 @@ show crypto ipsec sa
 
 ---
 
-### Attribution
-
+## Attribution
 [1]: https://habr.com/ru/companies/xakep/articles/256659/?utm_source=chatgpt.com "Анатомия IPsec. Проверяем на прочность легендарный ..."
 [2]: https://datatracker.ietf.org/doc/html/rfc2409?utm_source=chatgpt.com "RFC 2409 - The Internet Key Exchange (IKE)"
 [3]: https://docs.strongswan.org/docs/latest/howtos/securityRecommendations.html?utm_source=chatgpt.com "Security Recommendations"
