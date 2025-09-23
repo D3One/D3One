@@ -313,8 +313,6 @@ UseDNS no
 
 ---
 
-*If you want, I can convert this into a one-pager checklist (CSV/Markdown) or tailor it for a specific bank role profile (DMZ web, core DB, jump host) from that 2014–2015 stack.*
-
 [1]: https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/security_guide/index?utm_source=chatgpt.com "Security Guide | Red Hat Enterprise Linux | 7"
 [2]: https://docs.oracle.com/en/operating-systems/oracle-linux/7/security/?utm_source=chatgpt.com "Oracle Linux 7 Security Guide"
 [3]: https://www.cisecurity.org/benchmark/red_hat_linux?utm_source=chatgpt.com "CIS Red Hat Enterprise Linux Benchmarks"
