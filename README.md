@@ -18,10 +18,10 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
 
 --- 
 
- ## � Quick Start 
+ ## 🚀 Quick Start 
 
 <details>
-<summary><b>CLICK FOR EXPAND</b></summary>
+<summary><b>PLEASE, CLICK FOR EXPAND</b></summary>
 <br>
 This section provides direct links to key projects that demonstrate my core expertise and career trajectory in cybersecurity.
 
