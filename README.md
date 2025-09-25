@@ -17,10 +17,11 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
 - 💾 ex-Digital Forensics
 
 --- 
-🚀 ## Quick Start: Professional Highlights (Click for expand)
+
+🚀 ## Quick Start
 
 <details>
-<summary><b>This section provides direct links to key projects that demonstrate my core expertise and career trajectory in cybersecurity.</b></summary>
+<summary><b>Click for expand</b></summary>
 <br>
 This section provides direct links to key projects that demonstrate my core expertise and career trajectory in cybersecurity.
 
