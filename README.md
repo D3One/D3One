@@ -16,10 +16,10 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
 - 🦠 ex-Malware Analysis & Reverse Engineering  
 - 💾 ex-Digital Forensics
 
----
+--- 
 
 <details>
-<summary><b> ## 🚀 Quick Start: Professional Highlights</b></summary>
+<summary><b> <div style="font-size: 1.7em; font-weight: bold; margin: 1.5rem 0; color: #0366d6;">🚀 Quick Start: Professional Highlights</div> (Click for expand)</b></summary>
 <br>
 This section provides direct links to key projects that demonstrate my core expertise and career trajectory in cybersecurity.
 
@@ -27,9 +27,13 @@ This section provides direct links to key projects that demonstrate my core expe
 | :---: | :--- | :--- |
 | 🔐 | **[Project One Title](https://github.com/D3One/your-repo-one)** | A brief, impactful description of the project. For example: "A custom threat intelligence platform for analyzing IOCs." |
 | ⚡ | **[Project Two Title](https://github.com/D3One/your-repo-two)** | Highlights a different skill. For example: "Proof-of-Concept exploits for responsibly disclosed vulnerabilities." |
-| 🛡️ | **[Project Three Title](https://github.com/D3One/your-repo-three)** | Showcases a major achievement. For example: "Toolkit that automates security hardening checks for cloud infrastructure." |
-| 📜 | **[Project Four Title](https://github.com/D3One/your-repo-four)** | Perhaps a research paper or a comprehensive guide. For example: "In-depth research on novel attack vectors in IoT ecosystems." |
+| 🛡️ | **[K8s Shield]([https://github.com/D3One/your-repo-three](https://github.com/D3One/K8-Shield))** | The powerful command-line tool for auditing Kubernetes clusters against security best practices." |
+| 📜 | **[DevSecOps Notes Box, e-book](https://github.com/D3One/DevSecOps-Notes-Box)** | Perhaps a research paper or a comprehensive guide. For example: "In-depth research on novel attack vectors in IoT ecosystems." |
 | 🏆 | **[Award-Winning Project](https://github.com/D3One/your-repo-five)** | A link to a project that has received recognition or is particularly complex and demonstrates authority. |
+
+**Cr@zY Geek$ CTF University Team**
+ - [Attack & Defence](https://github.com/D3One/CTF_CrazY_GeekS/tree/main/Attack%26Defence)
+ - [Puzzles](https://github.com/D3One/CTF_CrazY_GeekS/tree/main/Puzzles)
 
 </details>
 
