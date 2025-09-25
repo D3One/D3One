@@ -23,15 +23,17 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
 <br>
 This section provides direct links to key projects that demonstrate my core expertise and career trajectory in cybersecurity.
 
-| | Project | Description |
+### Projects
+| | Object | Description |
 | :---: | :--- | :--- |
 | 🛡️ | **[K8s Shield](https://github.com/D3One/your-repo-three](https://github.com/D3One/K8-Shield))** | The powerful command-line tool for auditing Kubernetes clusters against security best practices." |
 | 📜 | **[DevSecOps Notes Box, e-book](https://github.com/D3One/DevSecOps-Notes-Box)** | Perhaps a research paper or a comprehensive guide. For example: "In-depth research on novel attack vectors in IoT ecosystems." |
 | 🏆 | **[Kubernetes Security, e-book](https://github.com/D3One/your-repo-five](https://ivan14piskunov.gumroad.com/l/k8security))** | A link to a project that has received recognition or is particularly complex and demonstrates authority. |
 
+### Main facts
 | | Object | Description |
 | :---: | :--- | :--- |
-### Main facts
+
 | 🛡️ | **[Short Bio](https://github.com/D3One/ivanpiskunov/tree/main/Biography)** | The powerful
 | 🛡️ | **[Alma mater](https://github.com/D3One/ivanpiskunov/blob/main/SAPEU%20(SALEM)/Cybersecurity.md)** | The powerful
 
