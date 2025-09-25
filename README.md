@@ -17,9 +17,10 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
 - 💾 ex-Digital Forensics
 
 --- 
+🚀 ## Quick Start: Professional Highlights (Click for expand)
 
 <details>
-<summary><b>🚀 ##Quick Start: Professional Highlights (Click for expand)</b></summary>
+<summary><b>This section provides direct links to key projects that demonstrate my core expertise and career trajectory in cybersecurity.</b></summary>
 <br>
 This section provides direct links to key projects that demonstrate my core expertise and career trajectory in cybersecurity.
 
@@ -37,27 +38,39 @@ This section provides direct links to key projects that demonstrate my core expe
 | 🛡️ | **[Alma mater](https://github.com/D3One/ivanpiskunov/blob/main/SAPEU%20(SALEM)/Cybersecurity.md)** | The powerful |
 
 ### Cybersecuriry Career Track
-  - [15-Year Cybersecurity Career Journey](https://github.com/D3One/ivanpiskunov/blob/main/Cybersecurity%20Career%20Journey/15-Year%20Cybersecurity%20Career%20Journey.md)
-  - [Key Insights From My 15-Year Climb from Junior Specialist to Startup Founder](https://github.com/D3One/ivanpiskunov/blob/main/The%20Unspoken%20Rules/Key%20Insights%20From%20My%2015-Year%20Climb%20from%20Junior%20Specialist%20to%20Startup%20Founder.md)
-  - [The Chance for a Better Life Given by Cybersecurity](https://github.com/D3One/ivanpiskunov/blob/main/Zero%202%20Hero/The%20Chance%20for%20a%20Better%20Life%20Given%20by%20Cybersecurity.md)
-  - [Main Career Track](https://github.com/D3One/D3One/blob/main/Jobs%20%20Task%20Vault/%D0%A1areer%20Track.md)
+| | Object | Description |
+| :---: | :--- | :--- |
+| 🛡️ | **[15-Year Cybersecurity Career Journey]**(https://github.com/D3One/ivanpiskunov/blob/main/Cybersecurity%20Career%20Journey/15-Year%20Cybersecurity%20Career%20Journey.md) | The powerful |
+| 🛡️ | **[Key Insights From My 15-Year Climb from Junior Specialist to Startup Founder]**(https://github.com/D3One/ivanpiskunov/blob/main/The%20Unspoken%20Rules/Key%20Insights%20From%20My%2015-Year%20Climb%20from%20Junior%20Specialist%20to%20Startup%20Founder.md) | The powerful |
+| 🛡️ | **[The Chance for a Better Life Given by Cybersecurity]**(https://github.com/D3One/ivanpiskunov/blob/main/Zero%202%20Hero/The%20Chance%20for%20a%20Better%20Life%20Given%20by%20Cybersecurity.md)
+| 🛡️ | **[Main Career Track](https://github.com/D3One/D3One/blob/main/Jobs%20%20Task%20Vault/%D0%A1areer%20Track.md) | The powerful |
 
 ### Cr@zY Geek$ CTF University Team
- - [Attack & Defence](https://github.com/D3One/CTF_CrazY_GeekS/tree/main/Attack%26Defence)
- - [Puzzles](https://github.com/D3One/CTF_CrazY_GeekS/tree/main/Puzzles)
- - [About Cr@Zy Geek$ Team]()
+| | Object | Description |
+| :---: | :--- | :--- |
+| 🛡️ | **[Attack & Defence](https://github.com/D3One/CTF_CrazY_GeekS/tree/main/Attack%26Defence)** | The powerful |
+| 🛡️ | **[Puzzles](https://github.com/D3One/CTF_CrazY_GeekS/tree/main/Puzzles)** | The powerful |
+| 🛡️ | **[About Cr@Zy Geek$ Team]() | The powerful |
 
 ### Personal Research
-- [The Research](https://github.com/D3One/D3One/blob/main/Research/ATM%20Hacking.md)
+| | Object | Description |
+| :---: | :--- | :--- |
+| 🛡️ | **[The Research](https://github.com/D3One/D3One/blob/main/Research/ATM%20Hacking.md)** | The powerful |
 
 ### Contest
-[Academy InfoTeCS Contest](https://github.com/D3One/D3One/tree/main/Academy%20InfoTeCS%20Contest)
+| | Object | Description |
+| :---: | :--- | :--- |
+| 🛡️ | **[Academy InfoTeCS Contest](https://github.com/D3One/D3One/tree/main/Academy%20InfoTeCS%20Contest)** | The powerful |
 
 ### Professor of Practice | University | Teaching 
-Main info (https://github.com/D3One/D3One/blob/main/Professor%20of%20Practice/README_ENG.md)
+| | Object | Description |
+| :---: | :--- | :--- |
+| 🛡️ | **[Main info](https://github.com/D3One/D3One/blob/main/Professor%20of%20Practice/README_ENG.md)** | The powerful |
 
 ### Commercial e-learning platform
-[Hacking for Kids](https://github.com/D3One/D3One/tree/main/Projects/Hacking_for_Kids)
+| | Object | Description |
+| :---: | :--- | :--- |
+| 🛡️ | **[Hacking for Kids](https://github.com/D3One/D3One/tree/main/Projects/Hacking_for_Kids)** | The powerful |
 
 
 </details>
