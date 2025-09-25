@@ -62,6 +62,8 @@ This section provides direct links to key projects that demonstrate my core expe
 | | Object | Description |
 | :---: | :--- | :--- |
 | 🏅 | **[Academy InfoTeCS Contest](https://github.com/D3One/D3One/tree/main/Academy%20InfoTeCS%20Contest)** | University cybersecurity competition participation and awarded solutions |
+| 🏅 | **[CarPWN: Tesla Model S (2017) Gateway Bypass](https://github.com/D3One/D3One/blob/main/Events/ZeroNigts/Tesla%20Model%20S%20Bypass.md)** | Shock to the System: How We 'Hacked' a Tesla |
+| 🏅 | **[Cracking the Vault](https://github.com/D3One/D3One/blob/main/Events/ZeroNigts/A%20Nostalgic%20Hack%20at%20Zero%20Nights%202017.md)** | The challenge appeared simple on the surface: "Open the analog safe without force" |
 
 ### Professor of Practice | University | Teaching 
 | | Object | Description |
