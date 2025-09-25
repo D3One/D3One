@@ -31,11 +31,33 @@ This section provides direct links to key projects that demonstrate my core expe
 **Projects:**
 | 🛡️ | **[K8s Shield](https://github.com/D3One/your-repo-three](https://github.com/D3One/K8-Shield))** | The powerful command-line tool for auditing Kubernetes clusters against security best practices." |
 | 📜 | **[DevSecOps Notes Box, e-book](https://github.com/D3One/DevSecOps-Notes-Box)** | Perhaps a research paper or a comprehensive guide. For example: "In-depth research on novel attack vectors in IoT ecosystems." |
-| 🏆 | **[Kubernwtes Security, e-book](https://github.com/D3One/your-repo-five](https://ivan14piskunov.gumroad.com/l/k8security))** | A link to a project that has received recognition or is particularly complex and demonstrates authority. |
+| 🏆 | **[Kubernetes Security, e-book](https://github.com/D3One/your-repo-five](https://ivan14piskunov.gumroad.com/l/k8security))** | A link to a project that has received recognition or is particularly complex and demonstrates authority. |
 
 **Cr@zY Geek$ CTF University Team:**
  - [Attack & Defence](https://github.com/D3One/CTF_CrazY_GeekS/tree/main/Attack%26Defence)
  - [Puzzles](https://github.com/D3One/CTF_CrazY_GeekS/tree/main/Puzzles)
+
+Academy InfoTeCS Contest(https://github.com/D3One/D3One/tree/main/Academy%20InfoTeCS%20Contest)
+
+Hacking for Kids(https://github.com/D3One/D3One/tree/main/Projects/Hacking_for_Kids)
+
+
+** mProfessor of Practice | University | Teachng**
+Main info (https://github.com/D3One/D3One/blob/main/Professor%20of%20Practice/README_ENG.md)
+
+** Сareer Track**
+(https://github.com/D3One/D3One/blob/main/Jobs%20%20Task%20Vault/%D0%A1areer%20Track.md)
+
+**Research**
+An ATM **
+The Research(https://github.com/D3One/D3One/blob/main/Research/ATM%20Hacking.md)
+
+15-Year Cybersecurity Career Journey(https://github.com/D3One/ivanpiskunov/blob/main/Cybersecurity%20Career%20Journey/15-Year%20Cybersecurity%20Career%20Journey.md)
+Key Insights From My 15-Year Climb from Junior Specialist to Startup Founder(https://github.com/D3One/ivanpiskunov/blob/main/The%20Unspoken%20Rules/Key%20Insights%20From%20My%2015-Year%20Climb%20from%20Junior%20Specialist%20to%20Startup%20Founder.md)
+The Chance for a Better Life Given by Cybersecurity(https://github.com/D3One/ivanpiskunov/blob/main/Zero%202%20Hero/The%20Chance%20for%20a%20Better%20Life%20Given%20by%20Cybersecurity.md)
+
+Alma mater (https://github.com/D3One/ivanpiskunov/blob/main/SAPEU%20(SALEM)/Cybersecurity.md)
+Short Bio(https://github.com/D3One/ivanpiskunov/tree/main/Biography)
 
 </details>
 
