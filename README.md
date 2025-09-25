@@ -19,7 +19,7 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
 --- 
 
 <details>
-<summary><b> <div style="font-size: 1.7em; font-weight: bold; margin: 1.5rem 0; color: #0366d6;">🚀 Quick Start: Professional Highlights</div> (Click for expand)</b></summary>
+<div style="font-size: 1.7em; font-weight: bold; margin: 1.5rem 0; color: #0366d6;">🚀 Quick Start: Professional Highlights</div> (Click for expand)
 <br>
 This section provides direct links to key projects that demonstrate my core expertise and career trajectory in cybersecurity.
 
