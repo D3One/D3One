@@ -18,7 +18,7 @@ Cybersecurity specialist with expertise in Product Security include CloudSec, De
 
 --- 
 
- ## Quick Start 🚀
+ ## � Quick Start 
 
 <details>
 <summary><b>CLICK FOR EXPAND</b></summary>
