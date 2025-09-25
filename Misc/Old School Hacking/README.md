@@ -29,18 +29,4 @@
 
 ---
 
-## 🔍 Methodology
-
-1. Read and annotated **period books** and guides (see **Sources**).
-2. Compiled **tool names, common vulns, and misconfigs** as they were documented and exploited back then.
-3. Reframed for **modern defenders** with:
-   - lab-safe command examples,
-   - log/forensic artifacts to hunt for,
-   - hardening guidance still applicable to brown-field estates.
-
-> I deliberately avoided reproducing working exploits; instead, I emphasize detection cues, historical context, and defense-in-depth that closes those old doors.
-
----
-
-## 📁 Suggested structure
 
