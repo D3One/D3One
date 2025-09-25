@@ -33,9 +33,8 @@ This section provides direct links to key projects that demonstrate my core expe
 ### Main facts
 | | Object | Description |
 | :---: | :--- | :--- |
-
-| 🛡️ | **[Short Bio](https://github.com/D3One/ivanpiskunov/tree/main/Biography)** | The powerful
-| 🛡️ | **[Alma mater](https://github.com/D3One/ivanpiskunov/blob/main/SAPEU%20(SALEM)/Cybersecurity.md)** | The powerful
+| 🛡️ | **[Short Bio](https://github.com/D3One/ivanpiskunov/tree/main/Biography)** | The powerful |
+| 🛡️ | **[Alma mater](https://github.com/D3One/ivanpiskunov/blob/main/SAPEU%20(SALEM)/Cybersecurity.md)** | The powerful |
 
 ### Cybersecuriry Career Track
   - [15-Year Cybersecurity Career Journey](https://github.com/D3One/ivanpiskunov/blob/main/Cybersecurity%20Career%20Journey/15-Year%20Cybersecurity%20Career%20Journey.md)
