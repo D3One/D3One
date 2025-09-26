@@ -75,6 +75,14 @@ This section provides direct links to key projects that demonstrate my core expe
 | :---: | :--- | :--- |
 | 🎯 | **[Hacking for Kids](https://github.com/D3One/D3One/tree/main/Projects/Hacking_for_Kids)** | Educational platform teaching ethical hacking and cybersecurity to young learners |
 
+
+### Culture and Fun (personal notes)
+| | Object | Description |
+| :---: | :--- | :--- |
+| 🎯 | **[Old School Hacking](https://github.com/D3One/D3One/tree/main/Projects/Hacking_for_Kids](https://github.com/D3One/D3One/tree/main/Misc/Old%20School%20Hacking))** | long-form historical, defender-centric article on how Windows and Linux servers were typically compromised in the early/mid/late 2000s |
+| 🎯 | **[Hacker Culture](https://github.com/D3One/D3One/tree/main/Misc/Hacker%20Culture)** | The True Meaning, Lost in Media Noise | 
+
+
 </details>
 
 ---
