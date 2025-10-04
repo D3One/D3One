@@ -108,7 +108,6 @@
 * CMEC — Ministerial Statement on Quality Assurance of Degree Education in Canada (включая Canadian Degree Qualifications Framework). ([CMEC][15])
 * Ontario Qualifications Framework (пример провинциальной рамки). ([Ontario][16])
 
----
 
 [1]: https://www.gov.uk/national-curriculum?utm_source=chatgpt.com "The national curriculum: Overview"
 [2]: https://www.gov.uk/government/organisations/ofqual/about?utm_source=chatgpt.com "About us - Ofqual"
