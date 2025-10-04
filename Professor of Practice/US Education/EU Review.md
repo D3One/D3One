@@ -75,7 +75,6 @@
 ---
 
 ## Референсы
-
 [1]: https://www.hesa.ac.uk/blog/28-02-2023/what-counts-higher-education-uk?utm_source=chatgpt.com "What counts as Higher Education in the UK?"
 [2]: https://www.nuffic.nl/en/education-systems/the-netherlands/higher-education?utm_source=chatgpt.com "Higher education | Nuffic"
 [3]: https://www.coe.int/en/web/higher-education-and-research/european-higher-education-area?utm_source=chatgpt.com "European Higher Education Area - The Council of Europe"
