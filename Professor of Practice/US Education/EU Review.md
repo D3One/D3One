@@ -74,7 +74,7 @@
 
 ---
 
-## Рефернсы
+## Референсы
 
 [1]: https://www.hesa.ac.uk/blog/28-02-2023/what-counts-higher-education-uk?utm_source=chatgpt.com "What counts as Higher Education in the UK?"
 [2]: https://www.nuffic.nl/en/education-systems/the-netherlands/higher-education?utm_source=chatgpt.com "Higher education | Nuffic"
@@ -88,3 +88,5 @@
 [10]: https://www.ed.ac.uk/students/academic-life/study-interruption?utm_source=chatgpt.com "Authorised interruption of study | Students"
 [11]: https://www.ucl.ac.uk/academic-manual/sites/academic_manual/files/chapter_4_part_a_assessment_framework_for_taught_programmes_2024-25.pdf?utm_source=chatgpt.com "UCL Academic Manual 2024-25 Chapter 4, Part A"
 [12]: https://www.singapour.campusfrance.org/the-different-types-of-institutes-of-higher-education-in-france?utm_source=chatgpt.com "The different types of institutes of higher education in France"
+
+---
